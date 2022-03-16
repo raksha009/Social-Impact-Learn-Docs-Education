@@ -3,4 +3,4 @@
 ### We worked on the following:
 <br>
 
-- ![Chrome Extension](Installing VS Code in Chromebooks/install_in_Chromebook.md)
+- [Chrome Extension](../Social-Impact-Learn-Docs-Education/Installing%20VS%20Code%20in%20Chromebooks/install_in_Chromebook.md)
