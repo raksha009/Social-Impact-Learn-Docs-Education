@@ -18,9 +18,20 @@ We tried going to the docs of Visual Studio Code and were not able to find a goo
 
 <br> 
 
+
 # Installing VS Code in Windows
 
-### Add here
+If students are downloading VS Code for the first time, they will probably be unaware of the technical jargon used in the installation process for Windows, e.g Adding to PATH.
+
+My edits to the Windows Installation documentation step through the installation process and explain everything on each step to allow a student or beginner to install VS Code properly while being aware of what the options they select will change on their computer system.
+
+<br>
+
+# Introductory Videos
+
+The Introductory Videos series for VS Code contain Video Outlines which are shown below each video. I added screenshots to these video outlines where applicable.
+
+The videos are great, but if a student is looking for a direct answer quickly, they will most likely go to the video outline instead of watching a full video to get one answer. The outline can be made even easier to understand with screenshots, as this adds a visual explanation and helps show a new user of VS Code exactly where they should be looking to get what they want.
 
 <br>
 
