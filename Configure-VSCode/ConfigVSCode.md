@@ -53,7 +53,7 @@ Now install mingw32-base and mingw32-gcc g++ package. Now go to the Installation
 
 * Now select the path then click on edit and then click new then paste the copied path of the bin folder for eg ( C:\MinGW\bin ) and then click on OK
   
-![alt_text](/Configure-VSCode/images/p5.gif "image_tooltip")
+![alt_text](/Configure-VSCode/images/p9.gif "image_tooltip")
 
 * If you type the following in your command prompt you can see that C compiler is properly configured 
   
@@ -61,4 +61,16 @@ Now install mingw32-base and mingw32-gcc g++ package. Now go to the Installation
 ![alt_text](/Configure-VSCode/images/p6.gif "image_tooltip")
 
     
+## Open VSCode
 
+* Go to the extension tab and search for C and install the package as shown
+  
+![alt_text](/Configure-VSCode/images/p7.gif "image_tooltip")
+
+* Similarly install Code Runner extension 
+
+![alt_text](/Configure-VSCode/images/p8.gif "image_tooltip")
+
+* Try to run a sample C file as shown
+  
+![alt_text](/Configure-VSCode/images/p10.gif "image_tooltip") 
