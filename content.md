@@ -14,3 +14,4 @@
   - <a href="Introductory Videos/debugging.md">Introductory Video #6 : Debugging</a>
   - <a href="Introductory Videos/customize.md">Introductory Video #8 : Customize</a>
   - Videos 4 and 7 in the Introductory Videos series did not need any screenshots added.
+- <a href="Configure-VSCode/ConfigVSCode.md">Configure VSCode</a>
