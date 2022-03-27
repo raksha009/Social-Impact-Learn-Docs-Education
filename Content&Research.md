@@ -54,5 +54,6 @@ So, we tried to create a simpler way to do the same.
 
 <br>
 
-# Shell 
-### Add here
+# Configure compilers like C/C++ using MINGW
+It is really a tedious process to configure and run source code written in programing languages like C/C++ in VSCode. So we come up with a simple and easy solution that will help many students across the globe in properly configuring and running C/C++ like source code in VSCode with just a click.
+Go to this [file](Configure-VSCode/ConfigVSCode.md)
