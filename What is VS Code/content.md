@@ -26,9 +26,9 @@ Speed up your release cycle with [SCM support](https://code.visualstudio.com/doc
 Enable additional languages, themes, debuggers, commands, and more. VS Code's growing community shares their secret sauce to improve your workflow.
 
 
-[
 
-![Python](https://ms-python.gallerycdn.vsassets.io/extensions/ms-python/python/2021.12.1559732655/1639078344000/Microsoft.VisualStudio.Services.Icons.Default)
+<img src = "https://ms-python.gallerycdn.vsassets.io/extensions/ms-python/python/2021.12.1559732655/1639078344000/Microsoft.VisualStudio.Services.Icons.Default" width = 100>
+
 
 IntelliSense (Pylance), Linting, Debugging (multi-threaded, remote), Jupyter Notebooks, code formatting, refactoring, unit tests, and more.
 
@@ -38,7 +38,7 @@ IntelliSense (Pylance), Linting, Debugging (multi-threaded, remote), Jupyter Not
 
 ](https://marketplace.visualstudio.com/items?itemName=ms-python.python)[
 
-![Jupyter](https://ms-toolsai.gallerycdn.vsassets.io/extensions/ms-toolsai/jupyter/2022.1.1001727824/1642757204831/Microsoft.VisualStudio.Services.Icons.Default)
+<img src = "https://ms-toolsai.gallerycdn.vsassets.io/extensions/ms-toolsai/jupyter/2022.1.1001727824/1642757204831/Microsoft.VisualStudio.Services.Icons.Default" width = 100>
 
 Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.
 
@@ -58,7 +58,8 @@ C/C++ IntelliSense, debugging, and code browsing.
 
 ](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)[
 
-![Pylance](https://ms-python.gallerycdn.vsassets.io/extensions/ms-python/vscode-pylance/2022.1.3/1642813614625/Microsoft.VisualStudio.Services.Icons.Default)
+
+<img src = "https://ms-python.gallerycdn.vsassets.io/extensions/ms-python/vscode-pylance/2022.1.3/1642813614625/Microsoft.VisualStudio.Services.Icons.Default" width = 100>
 
 A performant, feature-rich language server for Python in VS Code
 
@@ -68,7 +69,8 @@ A performant, feature-rich language server for Python in VS Code
 
 ](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)[
 
-![ESLint](https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/2.2.3/1642067257652/Microsoft.VisualStudio.Services.Icons.Default)
+<img src = "https://dbaeumer.gallerycdn.vsassets.io/extensions/dbaeumer/vscode-eslint/2.2.3/1642067257652/Microsoft.VisualStudio.Services.Icons.Default" width = 100>
+
 
 Integrates ESLint JavaScript into VS Code.
 
