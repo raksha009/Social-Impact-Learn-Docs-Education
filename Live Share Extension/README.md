@@ -20,7 +20,7 @@ Additionally, unlike traditional pair programming, Visual Studio Live Share allo
 
 **Share or Join a session via Live Share Extension on VS Code**
 
-[![LiveShare Join and Share VS CODE]((https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/Images/Join%20LiveShare-video.png)](https://www.youtube.com/embed/YLnbtcDvDdI)
+[![LiveShare Join and Share VS CODE](https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/Images/Join%20LiveShare-video.png)](https://www.youtube.com/embed/YLnbtcDvDdI)
 
 
 
