@@ -20,37 +20,47 @@ Additionally, unlike traditional pair programming, Visual Studio Live Share allo
 
 **Share or Join a session via Live Share Extension on VS Code**
 
-[![LiveShare Join and Share VS CODE](file:///C:/Users/Raksha/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)](https://www.youtube.com/embed/YLnbtcDvDdI?feature=oembed)
+[![LiveShare Join and Share VS CODE]((https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live Share Extension/Images/Join%20LiveShare-video.png)](https://youtu.be/YLnbtcDvDdI)
+
+
 
 Once done, 
 
 User1
 
-![A screenshot of a computer  Description automatically generated](file:///C:/Users/Raksha/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png) 
-
-User2 (After Clicking on the shared link)
-
-![A screenshot of a computer  Description automatically generated](file:///C:/Users/Raksha/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)
+[Social-Impact-Learn-Docs-Education/linkget.png at master · raksha009/Social-Impact-Learn-Docs-Education (github.com)](https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/Images/linkget.png)
 
  
 
-![A screenshot of a computer  Description automatically generated with medium confidence](file:///C:/Users/Raksha/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png)
+User2 (After Clicking on the shared link)
+
+[Social-Impact-Learn-Docs-Education/1.png at master · raksha009/Social-Impact-Learn-Docs-Education (github.com)](https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/Images/1.png)
+
+[Social-Impact-Learn-Docs-Education/allowacess.png at master · raksha009/Social-Impact-Learn-Docs-Education (github.com)](https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/Images/allowacess.png)
+
+ 
 
 After establishing the connection,
 
 User1-
 
- 
+ [Social-Impact-Learn-Docs-Education/user1.png at master · raksha009/Social-Impact-Learn-Docs-Education (github.com)](https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/Images/user1.png)
 
-![A screenshot of a computer  Description automatically generated with medium confidence](file:///C:/Users/Raksha/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png)
+
 
 User2
 
- 
+[Social-Impact-Learn-Docs-Education/user2-1.png at master · raksha009/Social-Impact-Learn-Docs-Education (github.com)](https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/Images/user2-1.png)
 
-![A screenshot of a computer  Description automatically generated](file:///C:/Users/Raksha/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png) 
+ [Social-Impact-Learn-Docs-Education/user2-2.png at master · raksha009/Social-Impact-Learn-Docs-Education (github.com)](https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/Images/user2-2.png)
 
-![A screenshot of a computer  Description automatically generated](file:///C:/Users/Raksha/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png) After making terminal read/write, user2 can write on User1’s terminal![A screenshot of a computer  Description automatically generated](file:///C:/Users/Raksha/AppData/Local/Temp/msohtmlclip1/01/clip_image016.png)
+
+
+ After making terminal read/write, user2 can write on User1’s terminal
+
+[Social-Impact-Learn-Docs-Education/user2-3.png at master · raksha009/Social-Impact-Learn-Docs-Education (github.com)](https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/Images/user2-3.png)
+
+
 
  
 
