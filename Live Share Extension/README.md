@@ -20,7 +20,7 @@ Additionally, unlike traditional pair programming, Visual Studio Live Share allo
 
 **Share or Join a session via Live Share Extension on VS Code**
 
-[![LiveShare Join and Share VS CODE]((https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live Share Extension/Images/Join%20LiveShare-video.png)](https://youtu.be/YLnbtcDvDdI)
+[![LiveShare Join and Share VS CODE]((https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/Images/Join%20LiveShare-video.png)](https://youtu.be/YLnbtcDvDdI)
 
 
 
@@ -28,15 +28,15 @@ Once done,
 
 User1
 
-[Social-Impact-Learn-Docs-Education/linkget.png at master · raksha009/Social-Impact-Learn-Docs-Education (github.com)](https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/Images/linkget.png)
+![Get LINK](https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/Images/linkget.png)
 
  
 
 User2 (After Clicking on the shared link)
 
-[Social-Impact-Learn-Docs-Education/1.png at master · raksha009/Social-Impact-Learn-Docs-Education (github.com)](https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/Images/1.png)
+![Social-Impact-Learn-Docs-Education/1.png at master · raksha009/Social-Impact-Learn-Docs-Education (github.com)](https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/Images/1.png)
 
-[Social-Impact-Learn-Docs-Education/allowacess.png at master · raksha009/Social-Impact-Learn-Docs-Education (github.com)](https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/Images/allowacess.png)
+![Social-Impact-Learn-Docs-Education/allowacess.png at master · raksha009/Social-Impact-Learn-Docs-Education (github.com)](https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/Images/allowacess.png)
 
  
 
@@ -44,21 +44,21 @@ After establishing the connection,
 
 User1-
 
- [Social-Impact-Learn-Docs-Education/user1.png at master · raksha009/Social-Impact-Learn-Docs-Education (github.com)](https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/Images/user1.png)
+![Social-Impact-Learn-Docs-Education/user1.png at master · raksha009/Social-Impact-Learn-Docs-Education (github.com)](https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/Images/user1.png)
 
 
 
 User2
 
-[Social-Impact-Learn-Docs-Education/user2-1.png at master · raksha009/Social-Impact-Learn-Docs-Education (github.com)](https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/Images/user2-1.png)
+![Social-Impact-Learn-Docs-Education/user2-1.png at master · raksha009/Social-Impact-Learn-Docs-Education (github.com)](https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/Images/user2-1.png)
 
- [Social-Impact-Learn-Docs-Education/user2-2.png at master · raksha009/Social-Impact-Learn-Docs-Education (github.com)](https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/Images/user2-2.png)
+![Social-Impact-Learn-Docs-Education/user2-2.png at master · raksha009/Social-Impact-Learn-Docs-Education (github.com)](https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/Images/user2-2.png)
 
 
 
  After making terminal read/write, user2 can write on User1’s terminal
 
-[Social-Impact-Learn-Docs-Education/user2-3.png at master · raksha009/Social-Impact-Learn-Docs-Education (github.com)](https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/Images/user2-3.png)
+![Social-Impact-Learn-Docs-Education/user2-3.png at master · raksha009/Social-Impact-Learn-Docs-Education (github.com)](https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/Images/user2-3.png)
 
 
 
