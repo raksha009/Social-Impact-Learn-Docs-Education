@@ -6,7 +6,7 @@ Additionally, unlike traditional pair programming, Visual Studio Live Share allo
 
 **Flow Chart**
 
-![Flowchart](https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live Share Extension/Images/flowchart.png)
+![Flowchart](https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/Images/flowchart.png)
 
 
 
@@ -14,7 +14,7 @@ Additionally, unlike traditional pair programming, Visual Studio Live Share allo
 
 **Install Live Share Extension on VS Code**
 
-[![Install LiveShare](https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live Share Extension/Images/InstallLiveShare.png)](https://www.youtube.com/embed/HCI3vQeuu_Q?feature=oembed)
+[![Install LiveShare](https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/Images/InstallLiveShare.png)](https://www.youtube.com/embed/HCI3vQeuu_Q?feature=oembed)
 
  
 
