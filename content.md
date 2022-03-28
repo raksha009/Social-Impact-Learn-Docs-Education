@@ -3,7 +3,7 @@
 ### We worked on the following:
 <br>
 
-- <a href = "Installing VS Code in Chromebooks/install_in_Chromebook.md">Installing VS Code in Chromebooks</a>
+- <a href = "Installing VS Code in Chromebooks/README.md">Installing VS Code in Chromebooks</a>
 
 - <a href="/VS Code Windows Installation/">Installing VS Code in Windows</a>
 - <a href="Introductory Videos/">Introductory Videos</a>
