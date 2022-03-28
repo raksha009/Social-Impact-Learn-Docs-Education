@@ -29,7 +29,7 @@ My edits to the Windows Installation documentation step through the installation
 
 # Introductory Videos
 
-The Introductory Videos series for VS Code contain Video Outlines which are shown below each video. I added screenshots to these video outlines where applicable.
+The Introductory Videos series for VS Code contain Video Outlines which are shown below each video. We added screenshots to these video outlines where applicable.
 
 The videos are great, but if a student is looking for a direct answer quickly, they will most likely go to the video outline instead of watching a full video to get one answer. The outline can be made even easier to understand with screenshots, as this adds a visual explanation and helps show a new user of VS Code exactly where they should be looking to get what they want.
 
@@ -50,9 +50,13 @@ So, we tried to create a simpler way to do the same.
 <br>
 
 # Live Share Extension
-### Add here
+Entensions are the best part of VS Code and forms the major portion of the reason why developers prefer VS Code as compared to other IDEs. 
+They have made life of a developer extremely easy and troublefree.
+
+So, we went through various extensions we use in our daily life and their existing docs online. After brainstroming, we decide to work on Live Share, an awesome Extension thats helps multiple people work on same project at same time on same system via virtually sharing our file on our system.  
 
 <br>
 
-# Shell 
-### Add here
+# Configure compilers like C/C++ using MINGW
+It is really a tedious process to configure and run source code written in programing languages like C/C++ in VSCode. So we come up with a simple and easy solution that will help many students across the globe in properly configuring and running C/C++ like source code in VSCode with just a click.
+Go to this [file](Configure-VSCode/ConfigVSCode.md)
