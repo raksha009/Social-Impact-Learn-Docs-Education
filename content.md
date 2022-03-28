@@ -15,3 +15,5 @@
   - <a href="Introductory Videos/customize.md">Introductory Video #8 : Customize</a>
   - Videos 4 and 7 in the Introductory Videos series did not need any screenshots added.
 - <a href="Configure-VSCode/ConfigVSCode.md">Configure VSCode</a>
+- <a href="https://github.com/raksha009/Social-Impact-Learn-Docs-Education/blob/master/Live%20Share%20Extension/README.md"> Live Share Extension </a>
+
